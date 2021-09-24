@@ -12,6 +12,10 @@
 
  ### :mag_right: Looking for opportunities especially as a Back-end or Full-Stack Junior Developer 
 
+## More information about me:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMarturanoJr&repo=FabioMarturanoJr.github.io&theme=tokyonight)](https://fabiomarturanojr.github.io/)
+
 ----
 
  <img 
