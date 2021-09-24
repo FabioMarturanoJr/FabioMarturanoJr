@@ -10,7 +10,7 @@
 - 3D enthusiast 🦸
 - cat father :cat: 
 
- ### :mag_right: Looking for opportunities especially as a Back-end or Full-Stack Junior Developer 
+ ### :mag_right: Looking for opportunities especially as a Back-End or Full-Stack Junior Developer 
 
 ## More information about me:
 
