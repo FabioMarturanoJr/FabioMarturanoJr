@@ -12,13 +12,6 @@
 
  ### :mag_right: Looking for opportunities especially as a Back-end or Full-Stack Junior Developer 
 
-## Some of my works:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMarturanoJr&repo=nodeChallenge&theme=tokyonight)](https://github.com/FabioMarturanoJr/nodeChallenge)
-
-</br>
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=starwars-planets-search-context-api&theme=tokyonight)](https://github.com/gmcerqueira/starwars-planets-search-context-api)
-
 ----
 
  <img 
