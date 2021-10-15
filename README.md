@@ -12,8 +12,6 @@
 
  ### :mag_right: Looking for opportunities especially as a Back-End or Full-Stack Junior Developer 
 
-## More information about me:
-
  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMarturanoJr&langs_count=4&layout=compact&theme=tokyonight"
   height="140em"
