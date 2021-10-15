@@ -14,10 +14,6 @@
 
 ## More information about me:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMarturanoJr&repo=FabioMarturanoJr.github.io&theme=tokyonight)](https://fabiomarturanojr.github.io/)
-
-----
-
  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMarturanoJr&langs_count=4&layout=compact&theme=tokyonight"
   height="140em"
