@@ -46,6 +46,11 @@
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+### I'm currently revamping my git hub to be more intuitive, I apologize for any confusion during this period.
+### any questions, please contact me
+
 ----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FabioMarturanoJr" alt="FabioMarturanoJr" /> </p>
