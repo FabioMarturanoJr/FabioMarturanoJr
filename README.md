@@ -50,7 +50,7 @@
 
 ## comments
 
-I'm currently updating my git hub to be more intuitive,I apologize for any confusion during this period.
+I'm currently updating my git hub to be more intuitive,I apologize for any confusion during this process.
 any questions, please contact me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fabiomarturanojr/)
