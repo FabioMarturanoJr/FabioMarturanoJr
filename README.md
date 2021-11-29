@@ -10,7 +10,7 @@
 - 3D enthusiast 🦸
 - cat father :cat: 
 
- ### :mag_right: Looking for opportunities especially as a `Back-End`, `Full-Stack` or `Front-End` Junior Developer 
+ ### fullstack developer on Meta
 
  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMarturanoJr&langs_count=10&layout=compact&theme=tokyonight"
