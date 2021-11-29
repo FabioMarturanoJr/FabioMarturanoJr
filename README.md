@@ -10,7 +10,9 @@
 - 3D enthusiast 🦸
 - cat father :cat: 
 
- ### fullstack developer on Meta
+ ### Fullstack developer on Meta
+ 
+ ----
 
  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMarturanoJr&langs_count=10&layout=compact&theme=tokyonight"
