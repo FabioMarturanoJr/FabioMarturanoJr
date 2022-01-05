@@ -1,7 +1,7 @@
 # Fabio Marturano
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fabiomarturanojr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiocmjor@gmail.com)
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fabiomarturanojr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiocmjor@gmail.com) -->
 
 
 ## About me:
@@ -53,11 +53,7 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
-
-## comments
-
-I'm currently updating my git hub to be more intuitive,I apologize for any confusion during this process.
-any questions, please contact me
+## Contacts
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fabiomarturanojr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiocmjor@gmail.com)
