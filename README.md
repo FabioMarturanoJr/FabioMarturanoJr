@@ -1,9 +1,5 @@
 # Fabio Marturano
 
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fabiomarturanojr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiocmjor@gmail.com) -->
-
-
 ## About me:
 
 - Work at [Meta](https://www.meta.com.br/)
@@ -40,12 +36,15 @@
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-CB3837.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Posgres](https://img.shields.io/badge/Postgre-blue.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visual%20studio-593D88.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
