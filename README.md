@@ -3,7 +3,6 @@
 ## About me:
 
 - Work at [Meta](https://www.meta.com.br/)
-- Software Development Student at [Trybe](https://www.betrybe.com/) :computer:
 - 3D enthusiast 🦸
 - cat father :cat: 
 
