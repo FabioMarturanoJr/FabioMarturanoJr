@@ -5,8 +5,6 @@
 - Work at [MJV Innovation](https://www.mjvinnovation.com/pt-br/)
 - 3D enthusiast 🦸
 - cat father :cat: 
-
- ### Fullstack developer on Meta
  
  ----
 
