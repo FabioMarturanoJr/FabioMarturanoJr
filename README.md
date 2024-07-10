@@ -2,7 +2,7 @@
 
 ## About me:
 
-- Work at [Meta](https://www.meta.com.br/)
+- Work at [MJV Innovation](https://www.mjvinnovation.com/pt-br/)
 - 3D enthusiast 🦸
 - cat father :cat: 
 
